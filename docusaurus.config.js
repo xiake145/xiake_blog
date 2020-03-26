@@ -19,11 +19,11 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         }, */
-        {
+       /*  {
           to: '/blog',
           label: '博客',
           position: "right"
-        },
+        }, */
         /* {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
